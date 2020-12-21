@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/gabrielshowdown/html)
+![GitHub](https://img.shields.io/github/license/gabrielshowdown/html)
 # Linguagem HTML
 ## Primeiros passos com a linguagem HTML
 HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores.
